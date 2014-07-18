@@ -1,4 +1,4 @@
-pittdti
+PMCP
 =======
 (C) Michael Perry, Stanford University [2012-2014]
 
