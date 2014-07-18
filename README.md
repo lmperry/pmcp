@@ -1,5 +1,6 @@
 pittdti
 =======
+(C) author - Michael Perry [2012-2014]
 
 ####pitt_initData<br>
 >This will organize all the data into the format we prefer
